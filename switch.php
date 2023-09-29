@@ -6,7 +6,7 @@ switch($numero){
     case 4:
         echo "O número é igual a 4 <br>";
         break;
-    case 4:
+    case 5:
          echo "O número é igual a 5 <br>";
         break;
     default:
