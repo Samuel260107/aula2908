@@ -1,6 +1,6 @@
 <?php
 $a = 70;
-$b = 8;
+$b = 5;
 $c = "Samuel";
 
 if(is_int($a)){
